@@ -28,3 +28,11 @@ font-size: x-large;
   text-align: right;
   font-size: 8px;
 }
+.really {
+  text-align: right;
+  font-size: 7px;
+}
+.nonsense {
+  text-align: right;
+  font-size: 6px;
+}
