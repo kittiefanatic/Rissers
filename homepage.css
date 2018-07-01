@@ -1,0 +1,26 @@
+body {
+  background-color: #a888f1;
+}
+
+.pretty {
+font-size: x-large;
+  color: #88f1cb;
+}
+.horses {
+  text-align: right;
+}
+
+.bad {
+  font-size: x-small;
+  display: inline-block;
+}
+
+.bad:hover {
+  background-color: #88f1cb;
+}
+.link {
+  position: fixed;
+  bottom: 0;
+  right: 0px;
+  font-size: xx-small;
+}
