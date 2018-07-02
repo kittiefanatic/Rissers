@@ -1,0 +1,44 @@
+body {
+
+}
+.red {
+  color: white;
+  display: inline-block;
+}
+.red:hover {
+background-color: #d60a0a;
+}
+.orange {
+  color: white;
+}
+.orange:hover {
+background-color: #fe7f00;
+}
+.yellow {
+  display: inline-block;
+  color: white
+}
+.yellow:hover {
+background-color: #e9f31a;
+}
+.green {
+  display: inline-block;
+  color: white
+}
+.green:hover {
+background-color: #32cf25;
+}
+.blue {
+  display: inline-block;
+  color: white;
+}
+.blue:hover {
+  background-color: #0051ff;
+}
+.purple {
+  display: inline-block;
+  color: white;
+}
+.purple:hover {
+  background-color: #7c3bff;
+}
