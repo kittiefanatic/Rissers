@@ -2,10 +2,12 @@ body {
 
 }
 .red {
+  transition: background .2s ease-in
   color: black;
   display: inline-block;
 }
 .red:hover {
+  transition: background .2s ease-in;
   border-radius: 4px;
 background-color: #d60a0a;
 }
@@ -14,30 +16,37 @@ background-color: #d60a0a;
   color: black;
 }
 .orange:hover {
+  transition: background .2s ease-in
 border-radius: 4px;
 background-color: #fe7f00;
 }
 .yellow {
+  transition: background .2s ease-in
   display: inline-block;
   color: black;
 }
 .yellow:hover {
+  transition: background .2s ease-in
   border-radius: 4px;
 background-color: #e9f31a;
 }
 .green {
+  transition: background .2s ease-in
   display: inline-block;
   color: black;
 }
 .green:hover {
+  transition: background .2s ease-in
   border-radius: 4px;
 background-color: #32cf25;
 }
 .blue {
+  transition: background .2s ease-in
   display: inline-block;
   color: black;
 }
 .blue:hover {
+  transition: background .2s ease-in
   border-radius: 4px;
   background-color: #0051ff;
 }
