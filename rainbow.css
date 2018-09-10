@@ -2,7 +2,7 @@ body {
 
 }
 .red {
-  color: white;
+  color: black;
   display: inline-block;
 }
 .red:hover {
@@ -11,7 +11,7 @@ background-color: #d60a0a;
 }
 .orange {
   display:inline-block;
-  color: white;
+  color: black;
 }
 .orange:hover {
 border-radius: 4px;
@@ -19,7 +19,7 @@ background-color: #fe7f00;
 }
 .yellow {
   display: inline-block;
-  color: white
+  color: black;
 }
 .yellow:hover {
   border-radius: 4px;
@@ -27,7 +27,7 @@ background-color: #e9f31a;
 }
 .green {
   display: inline-block;
-  color: white
+  color: black;
 }
 .green:hover {
   border-radius: 4px;
@@ -35,7 +35,7 @@ background-color: #32cf25;
 }
 .blue {
   display: inline-block;
-  color: white;
+  color: black;
 }
 .blue:hover {
   border-radius: 4px;
@@ -43,7 +43,7 @@ background-color: #32cf25;
 }
 .purple {
   display: inline-block;
-  color: white;
+  color: black;
 }
 .purple:hover {
   border-radius: 4px;

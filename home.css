@@ -16,7 +16,7 @@ font-size: x-large;
 }
 
 .bad:hover {
-  background-color: #88f1cb;
+  font-size: x-large;
 }
 .link {
   position: fixed;
