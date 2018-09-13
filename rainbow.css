@@ -2,7 +2,6 @@ body {
 
 }
 .red {
-  transition: background .2s ease-in
   color: black;
   display: inline-block;
 }
@@ -12,42 +11,39 @@ body {
 background-color: #d60a0a;
 }
 .orange {
-  transition: background .2s ease-in
-  display:inline-block;
   color: black;
+  display: inline-block;
+
 }
 .orange:hover {
-  transition: background .2s ease-in
-border-radius: 4px;
+  transition: background .2s ease-in;
+  border-radius: 4px;
 background-color: #fe7f00;
 }
 .yellow {
-  transition: background .2s ease-in
   display: inline-block;
   color: black;
 }
 .yellow:hover {
-  transition: background .2s ease-in
+  transition: background .2s ease-in;
   border-radius: 4px;
 background-color: #e9f31a;
 }
 .green {
-  transition: background .2s ease-in
   display: inline-block;
   color: black;
 }
 .green:hover {
-  transition: background .2s ease-in
+  transition: background .2s ease-in;
   border-radius: 4px;
 background-color: #32cf25;
 }
 .blue {
-  transition: background .2s ease-in
   display: inline-block;
   color: black;
 }
 .blue:hover {
-  transition: background .2s ease-in
+  transition: background .2s ease-in;
   border-radius: 4px;
   background-color: #0051ff;
 }
@@ -56,7 +52,7 @@ background-color: #32cf25;
   color: black;
 }
 .purple:hover {
-  transition: background .2s ease-in
+  transition: background .2s ease-in;
   border-radius: 4px;
   background-color: #7c3bff;
 }
