@@ -1,0 +1,12 @@
+body {
+
+}
+.padd {
+  padding: 25px;
+}
+.welcoming {
+  background-color: #bcf9f9;
+  height: 90px;
+  font-size: 36pt;
+  text-align: center;
+}

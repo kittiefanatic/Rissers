@@ -1,10 +1,22 @@
 body {
-  background-color: #a888f1;
+  background-color: #f9dada;
 }
-
+.pad {
+  padding: 25px;
+}
+.welcome {
+  background-color: #bcf9f9;
+  height: 90px;
+  font-size: 36pt;
+  text-align: center;
+}
 .pretty {
-font-size: x-large;
-  color: #88f1cb;
+font-size: 16pt;
+  color: white;
+  text-align: center;
+  height: 35px;
+  margin: 0px;
+  background-color: #7a7f7f;
 }
 .horses {
   text-align: right;
