@@ -1,8 +1,21 @@
 <html>
 <head>
   <title> Text Box & Posting </Title>
-    <style>
-    </style>
+    <script>
+      function typedThing() {
+        var = document.getElementById("textBox");
+        var typingThing = password.value;
+        if(typingThing == "iTypedaThing") {
+          return true;
+          alert("Good job! You typed the thing! Congratulations on your achievement!")
+        }
+
+        else{
+        alert("You typed a thing! It's not THE thing, though. See if you can guess the thing!");
+        return false;
+      }
+    }
+    </script>
 </head>
 <body>
   <div class="welcoming padd">
@@ -11,5 +24,9 @@
   <p> Welcome to where I'm REALLY making progress! I figured out how to make an input box (as shown by the password it took to get here), </br>
     so if you were given the password (If I gave it out, I probably figured out how to post stuff, so...), I trust you enough to post </br>
     without me having to set up a repository. Until I do, feel free to post whatever you like! (Within limits,... XP)</p>
+    <p><input id="inputPage"/></p>
+    <a onclick="return typedThing();">
+      Click to see if you typed the value for the success alert!
+    </a>
 </body>
 </html>
